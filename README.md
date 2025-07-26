@@ -26,7 +26,7 @@ To run locally, install dependencies using:
 pip install tensorflow matplotlib numpy
 ```
 
-## 📊 Model Architecture
+## Model Architecture
 
 A standard CNN model with:
 
